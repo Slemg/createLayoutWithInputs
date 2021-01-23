@@ -9,7 +9,7 @@ p {
     margin-bottom: 65px;
 }
 
-::placeholder {
+ ::placeholder {
     font-size:14px;
     color: #5F5D5D;
 }
