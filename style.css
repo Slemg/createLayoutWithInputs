@@ -32,22 +32,22 @@ button {
     text-transform: uppercase;
     color:white;
     letter-spacing: 4px;
+    margin-top:50px;
+    cursor: pointer;
+    resize: none;
 }
 .inputs-wrapper,.noborders-input {
     display:flex;
     justify-content: space-between;
 }
 .noborders-input {
-    width:43%
+    width:43%;
 }
 .noborders-inputs {
     width:96% ;
     margin-top:20px;
     height:175px;
-    border:none
-}
-button {
-    margin-top:50px
+    border:none;
 }
 textarea:focus, input:focus{
     outline: none;
