@@ -48,6 +48,7 @@ button {
     margin-top:20px;
     height:175px;
     border:none;
+    resize: none;
 }
 textarea:focus, input:focus{
     outline: none;
