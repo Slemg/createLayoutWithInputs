@@ -34,7 +34,7 @@ button {
     letter-spacing: 4px;
     margin-top:50px;
     cursor: pointer;
-    resize: none;
+   
 }
 .inputs-wrapper,.noborders-input {
     display:flex;
